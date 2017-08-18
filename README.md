@@ -4,7 +4,7 @@ via een geautomatiseerd randompokemon.com proces zoals hieronder beschreven
 
 hoe het werkt:
 * laat iedereen die mee wilt loten een pokemon kiezen
-* ga naar randompokemon.com
+* ga naar www.randompokemon.com
 * druk op f12 (of doe element inspecteren) en ga naar console
 * copy-paste het script in de console, verander de pokemon in het script zoals beschreven in de comment, en druk op enter (in firefox kan gewoon multiline script in console gestopt worden, indien dit niet kan in andere browsers is er een 1-line versie script die je kan kopieren)
 * als een van de gekozen pokemon verschijnt zal er een alert komen om je te waarschuwen, want het script laat constant nieuwe pokemon gegeneert worden.
