@@ -1,4 +1,4 @@
-var pokemon = ["Aron", "Dragonite", "Tyranitar"]; // verander in deze array de pokemon (wel met hoofdletter)
+var pokemon = ["Aron", "Dragonite", "Tyranitar"]; // verander in deze array de pokemon (wel met hoofdletter) #kkrhoofdletters
 
 setInterval(
 	function () { 
