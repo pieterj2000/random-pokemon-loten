@@ -16,3 +16,8 @@ als je het met een mooi muziekje wilt doen op de achtergrond
 * en dan 60 * 1000 * aantal beats / bpm berekenen en dan in het script de 2727.272727 vervangen met dat getal
 * dan moet je gewoon bij de console het script invoeren (dus op enter drukken) precies op de maat
 * en als er een alert is gewoon weer wegklikken ook op de maat, dan loopt alles lekker in sync
+
+hints
+* kies pokemon uit dezelfde generatie om sneller te zijn
+* kies pokemon van hetzelfde type om sneller te zijn
+* zet forms uit
