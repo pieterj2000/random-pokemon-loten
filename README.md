@@ -10,7 +10,7 @@ hoe het werkt:
 * als een van de gekozen pokemon verschijnt zal er een alert komen om je te waarschuwen, want het script laat constant nieuwe pokemon gegeneert worden.
 * de eerste wiens pokemon verschijnt krijgt het eerste te verloten ding, de tweede pokemon die verschijnt de tweede, enz. enz.
 
-Als je het met een mooi muziekje wilt doen op de achtergrond
+als je het met een mooi muziekje wilt doen op de achtergrond
 * dan kan je bijvoorbeeld deze pakken https://www.youtube.com/watch?v=VBlFHuCzPgY (script is al mooi in sync met die) 
 * als je een ander muziekje wilt kan je bijvoorbeeld met http://www.tempotap.com/ het ritme pakken 
 * en dan 60 * 1000 * aantal beats / bpm berekenen en dan in het script de 2727.272727 vervangen met dat getal
